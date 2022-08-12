@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "247387704706",
+    "project_id": "app-to-do-auth",
+    "storage_bucket": "app-to-do-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247387704706:android:1e549f2f5823d8bbbcd39b",
+        "android_client_info": {
+          "package_name": "com.example.uas_10119263_ridwanramadhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247387704706-j38q85f0rau5m0rbg0dvs0onsbbrqig3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5LYAvsJsCQgB_SLXsuwDc4VVzNqx3og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247387704706-j38q85f0rau5m0rbg0dvs0onsbbrqig3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
